@@ -14,4 +14,4 @@ CentOS는 Community Enterprise Operating System의 약자이다. 무료로 사�
 Ubuntu는 쉽고 편한 설치와 이용법 덕분에 진입장벽이 낮아 초보자들이 쉽게 접근할 수 있으며 데스크탑 용 리눅스 배포 판 가운데서 가장 많이 사용되고 있는 배포 판이다.
 
 ### 참고자료
-(https://coding-factory.tistory.com/318?category=760718)
+https://coding-factory.tistory.com/318?category=760718
