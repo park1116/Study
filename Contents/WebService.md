@@ -7,7 +7,6 @@ UDDI는 저장소이고 WSDL은 저장소와 저장된 자료에 접근 형식�
 RPC방식의 정보 교환은 request-response 프로세스를 허용하며, 서비스 End-Point는 프로시져 중심의 메시지를 받아서 적절한 응답 메시지를 작성하여 되돌려준다.
 ### 메시지 기반 (Message-oriented) 방식 (=Document 방식의 교환)
 메시지 기반 방식은 송신자가 서비스의 응답을 즉각적으로 요구하지 않아도 될 때 에도 사용이 가능하며, 주로 비즈니스와 여러 가지 형태의 문서 타입을 교환할 필요가 있을 때 사용된다.
-
 # WSDL (Web Services Description Language)
 WebService가 제공하는 서비스에 대한 정보를 기술하기 위한 XML 기반 마크업 언어이다. 특정 비즈니스가 제공하는 서비스를 설명한다.
  
@@ -28,4 +27,3 @@ WebService URL Endpoints를 설정
 ## 참고자료
 https://jeong-pro.tistory.com/153<br>
 https://blog.naver.com/msnayana/80172777745
-
