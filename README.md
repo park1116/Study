@@ -9,3 +9,4 @@
 7. [SOAP](https://github.com/park1116/Study/blob/main/Contents/SOAP.md)
 8. [WAS](https://github.com/park1116/Study/blob/main/Contents/WAS.md)
 9. [JSON](https://github.com/park1116/Study/blob/main/Contents/JSON.md)
+10. [JAXB](https://github.com/park1116/Study/blob/main/Contents/JAXB.md)
