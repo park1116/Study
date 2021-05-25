@@ -12,7 +12,7 @@
 - UDP보다 처리 속도가 느리다.
 - HTML 변경 시 Servlet을 재컴파일해야 하는 단점이 있다.
 ### Servlet 동작 방식
-1. 클라이언특 URL을 입력하면 HTTP Request가 Servlet Container로 전송한다.
+1. 클라이언트가 URL을 입력하면 HTTP Request가 Servlet Container로 전송한다.
 2. 요청을 전송받은 Servlet Container는 HtppServletRequest, HttpServletResponse 객체를 생성한다.
 3. Web.xml을 기반으로 사용자가 요청한 URL이 어느 서블릿에 대한 요청인지 찾는다.
 4. 해당 서블릿에서 service메소드를 호출한 후 클라이언트의 GET, POST여부에 따라서 doGet() 또는 doPost()를 호출한다.
@@ -20,4 +20,3 @@
 6. 응답이 끝나면 HttpServletRequest, HttpServletResponse 두 객체를 소멸시킨다.
 ### 참고자료
 https://mangkyu.tistory.com/14
-
