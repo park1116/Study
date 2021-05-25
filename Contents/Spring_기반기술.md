@@ -34,7 +34,7 @@ Servlet Container의 시작과 종료 시에 발생하는 이벤트를 처리하
 Application Context에 대한 실제 초기화 작업을 수행한다.  
 ContextLoaderListener를 등록하면 자동으로 디폴트 Application Context를 생성한다.
 ### RequestContextListener
-현재 스레드에 요청(Request)을 노출하는 Servler Listener이다.  
+현재 스레드에 요청(Request)을 노출하는 Servlet Listener이다.  
 RequestContextListenr를 등록하면 LocaleCOntextHolder, RequestContextHolder를 통해서 HttpServletRequest에 접근할 수 있게 한다.
 
 ### 참고 자료
