@@ -2,7 +2,7 @@
 스프링부트에서는 자바 소스(Java Config)로 설정을 하지만 스프링은 Servlet으로 자바 소스 설정을 한다.
 ### Servlet
 자바를 사용하여 웹 페이지를 동적으로 생성하는 서버측 프로그램이다.  
-Servlet은 Selrvlet Container에 의해 괸리, 실행된다.  
+Servlet은 Servlet Container에 의해 괸리, 실행된다.  
 **HTTP Server + Servlet Container**가 웹 서버에 필요한 대부분을 구현했고, 개발자는 Servlet을 만들어 HTTP 요청을 받아 처리하는 부분을 구현하는 것이다.  
 요청(Request)과 응답(Response) 즉, HTTP 웹 서버 기능 동작이 가능하다.
 ### Tomcat
