@@ -14,7 +14,7 @@ Nexus는 다수의 central repository들을 관리할 수 있으며 Proxy 개념
 정식 릴리즈를 통해 배포되는 바이너리를 저장하는 저장소이다.
 - **3rd Party**  
 벤더들이 배포하는 바이너리를 저장해 놓은 저장소로 특정 솔루션들을 사용할 때, 딸려오는 라이브러리 등을 여기에 놓고 사용한다.
-- **Proxy Repository**
+- **Proxy Repository**  
 프록시 저장소는 외부에 있는 메이븐 공개 저장소에 대한 프록시 역할을 하는 저장소이다.  
 Central이라는 이름으로 메이븐 중앙 저장소가 이미 추가되어 있다. 원격에 원본 repository가 있는 경우, Local에 캐쉬 용도로 사용한다.
 - **Virtual Repository**  
