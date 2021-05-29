@@ -10,7 +10,7 @@ Servlet은 Servlet Container에 의해 괸리, 실행된다.
 Tomcat은 Servlet을 관리해주는 주체이기 때문에 아무 클래스가 아니라 Servlet(HttpServlet 클래스를 상속한 클래스)이어야 한다.
 ### web.xml
 WAS는 Servlet을 생성하고 어떤 Servlet이 어떤 요청을 담당할 것인지, 어떤 요청이 인증과정을 거칠 것인지 등의 제어 기능을 지원한다.  
-이때 WAS에 servlet에 대한 정보를 주는 파일이 web.xml(Deployment Descriptor)이다.
+이때 WAS에 Servlet에 대한 정보를 주는 파일이 web.xml(Deployment Descriptor)이다.
 ### DispatcherServlet
 Servlet Container로부터 들어오는 요청을 관제하는 컨트롤러라고 할 수 있다.  
 Spring MVC에서 요청을 받는 부분이다.  
