@@ -25,5 +25,3 @@
 - [JPA](https://github.com/park1116/Study/blob/main/Contents/JPA.md)
 - [Spring 기반기술](https://github.com/park1116/Study/blob/main/Contents/Spring_기반기술.md)
 - [MSA](https://github.com/park1116/Study/blob/main/Contents/MSA.md)
-### 자료구조
-- 
