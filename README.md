@@ -8,6 +8,7 @@
 - [JAXB](https://github.com/park1116/Study/blob/main/Contents/JAXB.md)
 - [JPA](https://github.com/park1116/Study/blob/main/Contents/JPA.md)
 - [JSON](https://github.com/park1116/Study/blob/main/Contents/JSON.md)
+- [JVM](https://github.com/park1116/Study/blob/main/Contents/JVM.md)
 - [Linux](https://github.com/park1116/Study/blob/main/Contents/Linux.md)
 - [Mount](https://github.com/park1116/Study/blob/main/Contents/Mount.md)
 - [MSA](https://github.com/park1116/Study/blob/main/Contents/MSA.md)
